@@ -1,0 +1,12 @@
+Invoice Number
+Invoice/Delivery Date
+16.06.2023
+Product Identification
+43949222
+Date of Order
+15.06.2023
+Vision Group AG
+Lensvision
+Neugutstrasse 52
+CH-8600
+Order Number
