@@ -1,4 +1,4 @@
-# go-find-dates
+# go-datesfinder
 
 A simple package that, given a text, returns all the dates found in it.
 
